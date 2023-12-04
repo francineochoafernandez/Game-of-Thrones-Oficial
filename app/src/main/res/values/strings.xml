@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Game of Thrones Oficial</string>
+    <string name="noConn">No hay conexión de internet</string>
+    <string name="titulo">Título: </string>
+    <string name="familia">Familia: </string>
+    <string name="nomcom">Nombre Completo: </string>
+</resources>
