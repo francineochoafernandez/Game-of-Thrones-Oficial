@@ -41,6 +41,7 @@ android {
 }
 
 dependencies {
+    implementation("com.google.firebase:firebase-auth-ktx:22.3.0")
     val retrofitVersion = "2.9.0"
     val glideVersion = "4.15.1"
 

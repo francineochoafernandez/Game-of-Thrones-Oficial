@@ -16,6 +16,8 @@ import com.francineochoa.gameofthronesoficial.network.RetrofitService
 import com.francineochoa.gameofthronesoficial.network.personajes_api
 import com.francineochoa.gameofthronesoficial.ui.adapters.PersonajesAdapter
 import com.francineochoa.gameofthronesoficial.utils.Constants
+import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.auth.FirebaseUser
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

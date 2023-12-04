@@ -4,4 +4,10 @@
     <string name="titulo">Título: </string>
     <string name="familia">Familia: </string>
     <string name="nomcom">Nombre Completo: </string>
+    <string name="iniciosesion">Inicia Sesión </string>
+    <string name="registro">Registrate </string>
+    <string name="hintcorreo">Ingresa un correo válido: </string>
+    <string name="hitcontraseña">Ingresa una contraseña válida: </string>
+    <string name="contraseña_olvidada">¿Olvidaste tu contraseña? </string>
+
 </resources>
